@@ -1,5 +1,6 @@
 # Calc-Trancripts-Relative-Gaps
 Computational Biology Final Project - Python Script to Calculate Transcripts
+
 This script calculates transcripts using the output of genomecov.
 Usage: python3 calcTranscriptsRelativeGaps.py [genomecov results] [output file] [min coverage # per tanscript] [max gap length]
 The script parses each line, and checks the coverage for each base in the genome.
